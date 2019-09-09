@@ -1,9 +1,9 @@
 /******************* Problem definition **********************************/
-/* Implement aprogram that it shows the message "Hello World" on screen. */
+/* Implement a program that it shows the message "Hello World" on screen. */
 /*************************************************************************/
 
-/* Here, you should include the required libraries */
+/* Here, you must include the required libraries */
 
 void main(){
-	/* Here, you should write the source code of your program */
+	/* Here, you must write the source code to show the missatge "Hello world" on screen*/
 }
