@@ -3,7 +3,7 @@
 void main(){
 	/* Here, you should write the source code of your program */
 
-int a=2,b=3, S;
+int a,b, S;
 
  scanf("%d %d",&a,&b);
  S= a + b;
