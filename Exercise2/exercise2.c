@@ -3,10 +3,10 @@
 void main(){
 	/* Here, you should write the source code of your program */
 
-int a,b, S;
+int a,b,c,S;
 
- scanf("%d %d",&a,&b);
- S= a + b;
+ scanf("%d %d %d",&a,&b,&c);
+ S= a+b+c;
  
  printf("The Sum is %d .\n",S);
  
